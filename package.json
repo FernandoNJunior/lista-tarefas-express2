@@ -1,0 +1,14 @@
+{
+  "name": "lista-de-tarefas2",
+  "version": "1.0.0",
+  "description": "Nova tentativa de iniciar um projeto pelo terminal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
